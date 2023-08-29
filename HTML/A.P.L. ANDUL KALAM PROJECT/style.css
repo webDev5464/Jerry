@@ -1,0 +1,35 @@
+/* class */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.p1 {
+    font: size 30px;
+    color: blueviolet;
+}         
+
+/* div */
+
+.aslv {
+    border: 2px solid black ;
+}
+/* div */
+
+.mylatter {
+    border: 2px solid black
+}
+
+/* div */
+
+.pslv {
+    border: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+    text-decoration:underline ;
+    font-size: x-large;
+}

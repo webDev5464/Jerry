@@ -1,0 +1,57 @@
+hr {
+    border: 1px solid black;
+    margin: 30px 0;
+}
+
+table {
+    border: 3px solid black;
+    font-family: arial;
+    width: 50%;
+    margin: auto;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+th {
+    padding: 10px;
+    background-color: aqua;
+}
+
+td {
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: bisque;
+}
+
+tr:nth-child(odd) {
+    background-color: darksalmon;
+}
+
+td:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+p {
+    background-color: tomato;
+}
+
+span {
+    background-color: lightgreen;
+}
+
+/* p {
+    display: inline;
+}
+
+span {
+    display: block;
+} */
+
+
+
